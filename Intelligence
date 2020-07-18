@@ -1,4 +1,4 @@
-<mxfile modified="2020-07-18T19:43:36.866Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="VoVgwIpElO77LBtkpeaH" version="13.4.6" type="github">
+<mxfile modified="2020-07-18T19:44:10.027Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="hllUy2rcgiy-SPI6EUbz" version="13.4.6" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="946" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         </mxCell>
         <UserObject label="Rates (CBAR)" link="https://www.dcma.mil/WBT/CBAR/" id="8--HhbSZYtI3ddgJnD71-3">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://www.dcma.mil/portals/31/Images/WBT/cbar_icon_165.png;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="460" y="140" width="48" height="48" as="geometry" />
+            <mxGeometry x="420" y="112" width="48" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Spend by Category" link="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiAosex6NbqAhVWa80KHfatBaAQFjAAegQICRAB&amp;url=https%3A%2F%2Fpublic.tableau.com%2Fprofile%2Fafbit&amp;usg=AOvVaw0GyFDuSVsf9_HxC7Tv95N6" id="8--HhbSZYtI3ddgJnD71-5">
