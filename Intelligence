@@ -1,4 +1,4 @@
-<mxfile modified="2020-07-21T15:26:53.401Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="VzlIB4eZC_1PakPk8ACK" version="13.4.9" type="github">
+<mxfile modified="2020-07-21T15:33:14.656Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="M6XB8zWSGqwpZM5UzlIA" version="13.4.9" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,22 +35,22 @@
         </mxCell>
         <UserObject label="Rates (CBAR)" link="https://www.dcma.mil/WBT/CBAR/" id="8--HhbSZYtI3ddgJnD71-3">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://www.dcma.mil/portals/31/Images/WBT/cbar_icon_165.png;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="330" y="42" width="48" height="48" as="geometry" />
+            <mxGeometry x="420" y="90" width="48" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Spend by Category" link="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiAosex6NbqAhVWa80KHfatBaAQFjAAegQICRAB&amp;url=https%3A%2F%2Fpublic.tableau.com%2Fprofile%2Fafbit&amp;usg=AOvVaw0GyFDuSVsf9_HxC7Tv95N6" id="8--HhbSZYtI3ddgJnD71-5">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://public.tableau.com/avatar/1da98a24-ebfe-4e38-b968-45ba7bfc7efe.jpeg;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="270" y="130.91" width="66" height="66" as="geometry" />
+            <mxGeometry x="370" y="182" width="56" height="56" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="CAGE Codes" link="https://cage.dla.mil" id="8--HhbSZYtI3ddgJnD71-7">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://www.dla.mil/Portals/104/DLA-logo-w-blueback-Web.png?ver=2015-04-02-091859-267;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="450" y="130.91" width="48" height="60" as="geometry" />
+            <mxGeometry x="490" y="152" width="48" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="MOCAS Data" link="https://www.sdw.dcma.mil" id="8--HhbSZYtI3ddgJnD71-9">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://www.sdw.dcma.mil/eagle.gif;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="724" y="134.91" width="60" height="58" as="geometry" />
+            <mxGeometry x="620" y="180" width="60" height="58" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="8--HhbSZYtI3ddgJnD71-11" value="Pre-Award" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwb2x5Z29uIGZpbGw9IiM5MENBRjkiIHBvaW50cz0iNDAsNDUgOCw0NSA4LDMgMzAsMyA0MCwxMyIvPiYjeGE7ICAgIDxwb2x5Z29uIGZpbGw9IiNFMUY1RkUiIHBvaW50cz0iMzguNSwxNCAyOSwxNCAyOSw0LjUiLz4mI3hhOyAgICA8ZyBmaWxsPSIjMTk3NkQyIj4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTYiIHk9IjIxIiB3aWR0aD0iMTciIGhlaWdodD0iMiIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIxNiIgeT0iMjUiIHdpZHRoPSIxMyIgaGVpZ2h0PSIyIi8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjE2IiB5PSIyOSIgd2lkdGg9IjE3IiBoZWlnaHQ9IjIiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTYiIHk9IjMzIiB3aWR0aD0iMTMiIGhlaWdodD0iMiIvPiYjeGE7ICAgIDwvZz4mI3hhOzwvc3ZnPg==;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
@@ -58,32 +58,32 @@
         </mxCell>
         <object label="Pre-Solicitation" id="8--HhbSZYtI3ddgJnD71-12">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxnIGZpbGw9IiM5MENBRjkiPiYjeGE7ICAgICAgICA8cGF0aCBkPSJNMTcuNCwzM0gxNXYtNGg0bDAuNCwxLjVDMTkuNywzMS44LDE4LjcsMzMsMTcuNCwzM3oiLz4mI3hhOyAgICAgICAgPHBhdGggZD0iTTM3LDM2YzAsMC0xMS44LTctMTgtN1YxNWM1LjgsMCwxOC03LDE4LTdWMzZ6Ii8+JiN4YTsgICAgPC9nPiYjeGE7ICAgIDxnIGZpbGw9IiMyODM1OTMiPiYjeGE7ICAgICAgICA8Y2lyY2xlIGN4PSI5IiBjeT0iMjIiIHI9IjUiLz4mI3hhOyAgICAgICAgPHBhdGggZD0iTTQwLDE5aC0zdjZoM2MxLjcsMCwzLTEuMywzLTNTNDEuNywxOSw0MCwxOXoiLz4mI3hhOyAgICAgICAgPHBhdGggZD0iTTE4LjYsNDEuMmMtMC45LDAuNi0yLjUsMS4yLTQuNiwxLjRjLTAuNiwwLjEtMS4yLTAuMy0xLjQtMUw4LjIsMjcuOWMwLDAsOC44LTYuMiw4LjgsMS4xIGMwLDUuNSwxLjUsOC40LDIuMiw5LjVjMC41LDAuNywwLjUsMS42LDAsMi4zQzE5LDQxLDE4LjgsNDEuMSwxOC42LDQxLjJ6Ii8+JiN4YTsgICAgPC9nPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiMzRjUxQjUiIGQ9Ik05LDI5aDEwVjE1SDljLTEuMSwwLTIsMC45LTIsMnYxMEM3LDI4LjEsNy45LDI5LDksMjl6Ii8+JiN4YTsgICAgPHBhdGggZmlsbD0iIzQyQTVGNSIgZD0iTTM4LDM4TDM4LDM4Yy0xLjEsMC0yLTAuOS0yLTJWOGMwLTEuMSwwLjktMiwyLTJoMGMxLjEsMCwyLDAuOSwyLDJ2MjhDNDAsMzcuMSwzOS4xLDM4LDM4LDM4eiIvPiYjeGE7PC9zdmc+;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-            <mxGeometry x="131" width="48" height="48" as="geometry" />
+            <mxGeometry x="300" y="2" width="48" height="48" as="geometry" />
           </mxCell>
         </object>
         <UserObject label="FSC PSC Tool" link="https://www.fscpsc.com" id="8--HhbSZYtI3ddgJnD71-16">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://www.fscpsc.com/logo.svg;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="20" y="130.91000000000003" width="70" height="19.09" as="geometry" />
+            <mxGeometry x="169.99999999999997" y="70.91000000000003" width="70" height="19.09" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Commerciality" link="https://www.dcma.mil/commercial-item-group/" id="8--HhbSZYtI3ddgJnD71-17">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://www.dcma.mil/portals/31/Images/dcmalogoblue.png;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="110" y="184.19" width="84.53" height="33.81" as="geometry" />
+            <mxGeometry x="230" y="104.19" width="84.53" height="33.81" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="GovShop" link="https://govshop.publicspendforum.net" id="8--HhbSZYtI3ddgJnD71-18">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://govshop.publicspendforum.net/static-abf854d/markup/img/preloader.svg;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="230" y="228" width="48" height="48" as="geometry" />
+            <mxGeometry x="290" y="160" width="58" height="58" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="8--HhbSZYtI3ddgJnD71-19" value="Post-Award" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiNCRjM2MEMiIGQ9Ik00MS4yLDVoLTcuM0wzMiw0M2gxMUw0MS4yLDV6Ii8+JiN4YTsgICAgPHBhdGggZmlsbD0iI0U2NEExOSIgZD0iTTMzLDIzaC00di02bC0xMiw2di02TDUsMjN2MjBoMjhWMjN6Ii8+JiN4YTsgICAgPHJlY3QgeD0iOSIgeT0iMjciIGZpbGw9IiNGRkMxMDciIHdpZHRoPSI0IiBoZWlnaHQ9IjQiLz4mI3hhOyAgICA8cmVjdCB4PSIxNyIgeT0iMjciIGZpbGw9IiNGRkMxMDciIHdpZHRoPSI0IiBoZWlnaHQ9IjQiLz4mI3hhOyAgICA8cmVjdCB4PSIyNSIgeT0iMjciIGZpbGw9IiNGRkMxMDciIHdpZHRoPSI0IiBoZWlnaHQ9IjQiLz4mI3hhOyAgICA8cmVjdCB4PSI5IiB5PSIzNSIgZmlsbD0iI0ZGQzEwNyIgd2lkdGg9IjQiIGhlaWdodD0iNCIvPiYjeGE7ICAgIDxyZWN0IHg9IjE3IiB5PSIzNSIgZmlsbD0iI0ZGQzEwNyIgd2lkdGg9IjQiIGhlaWdodD0iNCIvPiYjeGE7ICAgIDxyZWN0IHg9IjI1IiB5PSIzNSIgZmlsbD0iI0ZGQzEwNyIgd2lkdGg9IjQiIGhlaWdodD0iNCIvPiYjeGE7PC9zdmc+;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="730" y="2" width="48" height="48" as="geometry" />
+          <mxGeometry x="640" y="2" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Phh9HruXxiv2BUoLY-u5-3" value="Descriptive Tools" style="shape=image;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiMwMEJDRDQiIGQ9Ik0yNCw2QzE0LjEsNiw2LDE0LjEsNiwyNHM4LjEsMTgsMTgsMThjNS4yLDAsOS45LTIuMiwxMy4xLTUuN0wyNCwyNFY2eiIvPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiM0NDhBRkYiIGQ9Ik00MiwyNGMwLTkuOS04LjEtMTgtMTgtMTh2MThINDJ6Ii8+JiN4YTsgICAgPHBhdGggZmlsbD0iIzNGNTFCNSIgZD0iTTI0LDI0bDEzLjEsMTIuM2MzLTMuMiw0LjktNy41LDQuOS0xMi4zSDI0eiIvPiYjeGE7PC9zdmc+;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="498" y="320" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Phh9HruXxiv2BUoLY-u5-4" value="Predictive Tools" style="shape=image;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxnIGZpbGw9IiMwMEJDRDQiPiYjeGE7ICAgICAgICA8cmVjdCB4PSIxOSIgeT0iMjIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyMCIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIzMiIgeT0iOCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjM0Ii8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjYiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTIiLz4mI3hhOyAgICA8L2c+JiN4YTsgICAgPGcgZmlsbD0iIzNGNTFCNSI+JiN4YTsgICAgICAgIDxwb2x5Z29uIHBvaW50cz0iMTEsOCAyMSwxOCAyMSw4Ii8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjExIiB5PSI4LjkiIHRyYW5zZm9ybT0ibWF0cml4KC0uNzA3IC0uNzA3IC43MDcgLS43MDcgMTAuODc5IDM2LjUwNikiIHdpZHRoPSI0IiBoZWlnaHQ9IjE0LjEiLz4mI3hhOyAgICA8L2c+JiN4YTs8L3N2Zz4=;labelPosition=center;align=center;" parent="1" vertex="1">
-          <mxGeometry x="128.26999999999998" y="320" width="48" height="48" as="geometry" />
+          <mxGeometry x="260" y="320" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Phh9HruXxiv2BUoLY-u5-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=5;endArrow=none;endFill=0;targetPerimeterSpacing=5;" parent="1" source="8--HhbSZYtI3ddgJnD71-18" target="Phh9HruXxiv2BUoLY-u5-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -129,7 +129,7 @@
         </mxCell>
         <UserObject label="Cost Data" link="https://cade.osd.mil" id="Phh9HruXxiv2BUoLY-u5-13">
           <mxCell style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://cade.osd.mil/content/cade/images/CADE%20logo.png;imageBackground=#146089;" parent="1" vertex="1">
-            <mxGeometry x="570" y="130.91" width="108" height="48" as="geometry" />
+            <mxGeometry x="546" y="100" width="85.5" height="38" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Phh9HruXxiv2BUoLY-u5-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=5;endArrow=none;endFill=0;targetPerimeterSpacing=5;" parent="1" source="Phh9HruXxiv2BUoLY-u5-13" target="8--HhbSZYtI3ddgJnD71-11" edge="1">
